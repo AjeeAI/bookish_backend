@@ -9,8 +9,8 @@ class UserManager:
     def __init__(self, db_session):
         self.db = db_session
         self.secret = os.getenv("secret_key", "supersecretkey")
-        self.admin_email = os.getenv("ADMIN_EMAIL", "admin_email")
-        self.admin_pass = os.getenv("ADMIN_PASSWORD", "admin_password")
+        self.admin_email = os.getenv("admin_email")
+        self.admin_pass = os.getenv("admin_password")
 
     def login(self, login_data):
         # 1. Validation (Outside try/except so 400 errors are returned correctly)
