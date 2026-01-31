@@ -6,3 +6,4 @@ sqlalchemy
 bcrypt
 pymysql
 pydantic
+uvicorn
