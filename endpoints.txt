@@ -1,0 +1,58 @@
+Here is a comprehensive list of the RESTful API endpoints you will likely need for a blog application, categorized by their functionality.
+
+1. Authentication & Users
+POST /api/auth/register: Register a new user.
+
+POST /api/auth/login: Authenticate a user and return an access token (JWT).
+
+POST /api/auth/logout: Invalidate the current session (if using server-side sessions) or instructions to clear client-side tokens.
+
+GET /api/users/me: Get the currently logged-in user's profile information.
+
+PUT /api/users/me: Update the current user's profile details (bio, avatar, etc.).
+
+GET /api/users/{id}: Get a specific user's public profile information.
+
+2. Blog Posts (CRUD)
+GET /api/posts: Retrieve a list of all blog posts (supports pagination, filtering, and sorting).
+
+POST /api/posts: Create a new blog post.
+
+GET /api/posts/{slug}: Retrieve a single blog post by its URL slug.
+
+PUT /api/posts/{id}: Update an existing blog post.
+
+DELETE /api/posts/{id}: Delete a blog post.
+
+GET /api/users/{id}/posts: Retrieve all posts written by a specific user.
+
+3. Categories & Tags
+GET /api/categories: List all available categories.
+
+POST /api/categories: Create a new category (Admin only).
+
+GET /api/tags: List all available tags.
+
+GET /api/posts/category/{category_slug}: Get all posts belonging to a specific category.
+
+GET /api/posts/tag/{tag_name}: Get all posts associated with a specific tag.
+
+4. Comments
+GET /api/posts/{post_id}/comments: Get all comments associated with a specific post.
+
+POST /api/posts/{post_id}/comments: Add a new comment to a post.
+
+PUT /api/comments/{id}: Edit an existing comment.
+
+DELETE /api/comments/{id}: Delete a comment.
+
+5. Likes/Reactions (Optional)
+POST /api/posts/{post_id}/like: Toggle a "like" on a post for the current user.
+
+GET /api/posts/{post_id}/likes: Get the total count of likes for a post.
+
+6. Search
+GET /api/search: Search for posts based on a query string (title, content, author).
+
+7. Media/Uploads
+POST /api/upload: Upload an image (for post covers or avatars) and return the file URL.

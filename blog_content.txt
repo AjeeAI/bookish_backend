@@ -1,0 +1,58 @@
+{
+  "title": "Substitution in the Nigerian Market",
+  "excerpt": "'It is even redder and tastier...' A look at how the Nigerian market has shifted to cheap substitutes and what this means for the average buyer's survival.",
+  "content": "Seller: …If that one is too expensive, I have a better one that is cheaper. It is even redder and tastier than the one you want to buy. I think it is because people have not seen what is inside.
+
+Buyer: Oh, really? (sarcastically)
+
+Seller: It is true. Since the day I started using it, when I mixed it into my children’s jollof rice, if I use the one you want to buy instead, they will not eat it. This is the one they always shout for. It is the real deal.
+
+(Finally, the buyer turns the product in her hand, reads the label, checks the expiry date, production date, manufacturer, location, instructions… Slowly, she says…)
+
+Buyer: Just give me five, so I can try it first. If this thing is not good, I will be angry with you.
+
+Although it is not as great as the seller claimed, she continues to buy it. It is cheaper, and honestly, not that bad.
+
+Behold a typical market conversation and the mindset of the average Nigerian buyer and seller in this “new” Nigeria.
+
+The New Nigerian Economy
+
+As an average Nigerian who does not care for economic jargon such as GDP and the like, I understand the state of the economy by looking at the state of my pocket, the cost of essential items, the minimum wage, and the standard of living for the everyday person.
+
+When I was ten years old, one pack of spaghetti cost no more than 90 naira, and there were not many brands. In 2023, it cost me 550 naira. Now my preferred brand costs double the 2023 amount. Six years ago, someone earning 100,000 naira monthly might have thought that doubling their salary would allow them to save more, but time has proven that to be untrue.
+
+While salaries increased due to a rise in the minimum wage, expenses have also doubled, and in some cases, tripled or quadrupled. By the middle of 2025, even if one were earning triple their 2020 salary, they could no longer afford many things they once enjoyed.
+
+Dealing with Change
+
+If anyone wanted to study the biologists’ theory that organisms adapt to survive their current circumstances, Nigerians would be the perfect case study.
+
+To cope with the economic hardship and rising costs of goods and services, the Nigerian solution is often to produce or seek substitutes. 
+Substitution in the Nigerian Market
+
+Mathematical substitution is straightforward, but substitution in Nigerian markets is absolutley not. Getting Product A1 instead of A2, even if they have similar names and content, does not guarantee equal satisfaction.
+
+Economists refer to some goods as “substitute goods.” To qualify, a substitute must:
+
+Serve the same function as the original;
+Be sold within the same geographical area;
+Be used on the same occasions.
+Now, we see many such goods. As the price of a cheap product rises, an even cheaper “new and better” alternative is launched. It has become a rat race for temporary popularity before a newer one arrives.
+
+In 2023, I noticed a new cola-based soft drink introduced in Lagos and Ogun, where I live. I initially thought we had enough cola brands, until I tried to buy my usual. To my surprise, sellers (I checked several) informed me that one bottle of my favourite now cost 20% more.
+
+Unwilling to pay that much, I accepted a cheaper, “equally good” substitute, the new one. After tasting it, I did not quite like it and went back to my usual. The general public, however, did not.
+
+Do I blame them? Absolutely not.
+
+In this era, everyone is trying to cut costs wherever possible. While some producers reduce product size to lower prices, others increase prices to maintain quality, and these are the ones most affected by substitutes.
+
+If a consumer complains about a substitute’s quality, is he wrong? If producers cut quality to cut costs, are they also wrong, when we are all simply adapting to the cards that change has dealt us?
+
+Is it possible to have better substitutes? Do we already have them?
+
+These are questions we still need answers to.",
+  "category_id": 1,
+  "cover_image_url": "https://res.cloudinary.com/driliwdn7/image/upload/v1769862162/ankara_fabric_vmxyqw.jpg",
+  "is_published": true
+}
